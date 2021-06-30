@@ -1,24 +1,23 @@
 ## Hey Hey! It's me, Filipe 🤓
----
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lip-ee&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
----
-## Some Skills (Learning...)
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=#7B68EE
-https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=#7B68EE
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=#7B68EE
-https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=#7B68EE
 
-<!--
-**Lip-ee/Lip-ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🏫 **Software Development** Student - **ETEC** Fernando Prestes
+📍 Sorocaba - SP - Brazil 🇧🇷
+👾 Pixel Art Lover
+🤖 Marvel > DC
 
-Here are some ideas to get you started:
+*"The next Iron Man"*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages Skills (Learning...)
+<img src="https://img.shields.io/badge/-Python-14354C?style=flat&logo=python&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/-PHP-6495ED?style=flat&logo=php&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/-C%23-7B68EE?style=flat&logo=c-sharp&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/-PostgreSQL-6495ED?style=flat&logo=postgresql&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/-HTML-FF7F50?style=flat&logo=html5&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/-CSS-1E90FF?style=flat&logo=css3&logoColor=white" height=30>
+ 
+## Status
+<img height="194em" src="https://github-readme-stats.vercel.app/api?username=Lip-ee&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Lip-ee&theme=white)
+
