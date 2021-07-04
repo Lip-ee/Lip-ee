@@ -34,5 +34,4 @@
 <h2 align="center">Status</h2>
 <p align="center">
  <img height="194em" src="https://github-readme-stats.vercel.app/api?username=Lip-ee&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
- <img height="194em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lip-ee&theme=white&theme=dark"/>
 </p>
