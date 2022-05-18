@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=40>
  </a>
  &nbsp;&nbsp;
- <a href="https://twitter.com/dev_lipe" rel="nofollow">
+ <a href="https://twitter.com/lipopepy" rel="nofollow">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=40>
  </a>
 </p>
