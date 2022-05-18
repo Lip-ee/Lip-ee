@@ -33,7 +33,7 @@
 
 <h2 align="center">Status</h2>
 <p align="center">
- <a href="https://github.com/Lip-ee/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Lip-ee&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" /></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Lip-ee&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" /></a>
  <br>
- <a href="https://github.com/Lip-ee/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lip-ee&layout=compact&theme=dark&hide_border=true" /></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lip-ee&layout=compact&theme=dark&hide_border=true" /></a>
 </p>
