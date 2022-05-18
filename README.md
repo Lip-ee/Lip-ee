@@ -33,6 +33,7 @@
 
 <h2 align="center">Status</h2>
 <p align="center">
- <img height="194em" src="https://github-readme-stats.vercel.app/api?username=Lip-ee&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
- <img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&username=Lip-ee&layout=compact&langs_count=16&theme=dark"/>
+ <a href="https://github.com/Lip-ee/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Lip-ee&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" /></a>
+ <br>
+ <a href="https://github.com/Lip-ee/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lip-ee&layout=compact&theme=dark&hide_border=true" /></a>
 </p>
