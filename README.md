@@ -1,14 +1,20 @@
-<div align="center">
- <!--Hello, I'm Filipe!-->
- <img src="https://user-images.githubusercontent.com/63020408/175167404-1dc11566-f5c2-42cf-bfb3-f60513590036.png" width=80%><br>
- <img src="https://user-images.githubusercontent.com/63020408/175128489-ea8f8f5b-9575-46fb-bea2-7ffc6cb7ce46.gif" width=80%><br><br>
+<p align="center">
+  <!--Hello, I'm Filipe!-->
+  <img src="https://user-images.githubusercontent.com/63020408/175167404-1dc11566-f5c2-42cf-bfb3-f60513590036.png" width="45%" />
+ &nbsp; &nbsp; &nbsp; &nbsp;
+  <!--About Me-->
+  <img src="https://user-images.githubusercontent.com/63020408/175170111-e07ef85d-3a8b-4d04-b3ef-0e4d1118bbec.png" width="45%" />
+</p>
+
+<p align="center">
+  <!--gif lindao pixel art-->
+  <img src="https://user-images.githubusercontent.com/63020408/175190096-2ca19484-cc1d-4009-85e0-6af56475713f.gif" width="45%" />
  
- <hr>
- 
- <!--About Me-->
- <img src="https://user-images.githubusercontent.com/63020408/175170111-e07ef85d-3a8b-4d04-b3ef-0e4d1118bbec.png" width=80%><br>
- <img src="https://user-images.githubusercontent.com/63020408/175182307-6449c49a-3ec4-450e-a946-d25dc2b990fe.png" width=80%><br><br>
-</div>
+ &nbsp; &nbsp; &nbsp; &nbsp;
+  <!--text about me-->
+  <img src="https://user-images.githubusercontent.com/63020408/175182307-6449c49a-3ec4-450e-a946-d25dc2b990fe.png" width="45%" />
+</p>
+
 
 <hr>
 
