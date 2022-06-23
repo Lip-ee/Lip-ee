@@ -8,8 +8,7 @@
 
 <p align="center">
   <!--gif lindao pixel art-->
-  <img src="https://user-images.githubusercontent.com/63020408/175190096-2ca19484-cc1d-4009-85e0-6af56475713f.gif" width="45%" />
- 
+  <img src="https://user-images.githubusercontent.com/63020408/175190755-c689d510-5b93-414f-9d3c-0bf6cf8d231d.gif" width="45%" />
  &nbsp; &nbsp; &nbsp; &nbsp;
   <!--text about me-->
   <img src="https://user-images.githubusercontent.com/63020408/175182307-6449c49a-3ec4-450e-a946-d25dc2b990fe.png" width="45%" />
