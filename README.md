@@ -1,20 +1,20 @@
 <div align="center">
+ <!--Hello, I'm Filipe!-->
  <img src="https://user-images.githubusercontent.com/63020408/175167404-1dc11566-f5c2-42cf-bfb3-f60513590036.png" width=80%><br>
  <img src="https://user-images.githubusercontent.com/63020408/175128489-ea8f8f5b-9575-46fb-bea2-7ffc6cb7ce46.gif" width=80%><br><br>
  
- <img src="https://user-images.githubusercontent.com/63020408/175170111-e07ef85d-3a8b-4d04-b3ef-0e4d1118bbec.png" width=80%>
+ <hr>
+ 
+ <!--About Me-->
+ <img src="https://user-images.githubusercontent.com/63020408/175170111-e07ef85d-3a8b-4d04-b3ef-0e4d1118bbec.png" width=80%><br>
+ <img src="https://user-images.githubusercontent.com/63020408/175182307-6449c49a-3ec4-450e-a946-d25dc2b990fe.png" width=80%><br><br>
 </div>
+
+<hr>
 
 <div align="center">
-<i>"The next Iron Man"</i> <br><br>
-🏫 <b>Software Development</b> Student - <b>ETEC</b> Fernando Prestes <br>
-📍 Sorocaba - <b>SP</b> - Brazil 🇧🇷 <br>
-👾 <b>Pixel Art</b> Lover <br>
-🤖 Marvel > DC <br>
-</div>
-
-<h3 align="center">Languages Skills (Learning...)</h2>
-<p align="center">
+ <!--Skills-->
+ <img src="https://user-images.githubusercontent.com/63020408/175184481-2f611265-ff14-4f8c-a3ed-138a8a5d2e4f.png" width=80%><br>
  <img src="https://user-images.githubusercontent.com/63020408/175138851-36be8893-4f4f-4bb8-b02a-e8ef013a1346.png" height=42> &nbsp;&nbsp;
  <img src="https://user-images.githubusercontent.com/63020408/175140263-402f0259-499b-48df-96e4-d277bd491d05.png" height=42> &nbsp;&nbsp;
  <img src="https://user-images.githubusercontent.com/63020408/175140870-7bb08f86-f1cd-4349-8f27-a74aa4869752.png" height=42> &nbsp;&nbsp;
@@ -25,8 +25,7 @@
  <img src="https://user-images.githubusercontent.com/63020408/175142067-2aeafef9-7355-4d18-a775-5eb0551b876e.png" height=42> &nbsp;&nbsp;
  <img src="https://user-images.githubusercontent.com/63020408/175142684-fdd74a1e-c38e-431c-b9c0-fe07d1b37381.png" height=42> &nbsp;&nbsp;
  <img src="https://user-images.githubusercontent.com/63020408/175143379-36a51729-1868-4c0e-9b22-2e55f8da2ab3.png" height=42> &nbsp;&nbsp;
- <img src="https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white" height=30>
-</p>
+</div>
 
 <hr>
 
@@ -43,26 +42,31 @@ Linux: ![linux](https://user-images.githubusercontent.com/63020408/175142684-fdd
 Godot: ![Godot_icon svg](https://user-images.githubusercontent.com/63020408/175143379-36a51729-1868-4c0e-9b22-2e55f8da2ab3.png)
 -->
 
-<p align="center">
- <img src="https://user-images.githubusercontent.com/63020408/175169269-803a30f8-a1c2-4ac5-b9d1-285c0fe0539f.png" width=80% /><br><br>
- 
+<div align="center">
+ <!--Contact Me-->
+ <img src="https://user-images.githubusercontent.com/63020408/175183960-c5136825-a4bd-4010-8529-e5be58742cf9.png" width=80% /><br><br>
+
  <a href="https://www.linkedin.com/in/devlipe/" rel="nofollow">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=40>
- </a>
- &nbsp;&nbsp;
+ </a> &nbsp;&nbsp;
  <a href="https://www.instagram.com/lip__ee_/" rel="nofollow">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=40>
- </a>
- &nbsp;&nbsp;
+ </a> &nbsp;&nbsp;
  <a href="https://twitter.com/lipopepy" rel="nofollow">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=40>
  </a>
-</p>
+ 
+</div>
 
-<h2 align="center">Status</h2>
-<p align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Lip-ee&layout=compact&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" width=50%/></a>
- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lip-ee&layout=compact&theme=dracula&hide_border=true" width=50%/></a>
- <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Lip-ee&theme=dracula&hide_border=true" width=50%/></a>
-</p>
+<hr>
+
+<div align="center">
+ <!--Status-->
+ <img src="https://user-images.githubusercontent.com/63020408/175185188-2f3ce104-2364-41ad-9ede-105fa7583127.png" width=80%><br><br>
+ 
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Lip-ee&layout=compact&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" width=58%/></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lip-ee&layout=compact&theme=dracula&hide_border=true" width=58%/></a>
+ <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Lip-ee&theme=dracula&hide_border=true" width=58%/></a>
+ 
+</div>
 
