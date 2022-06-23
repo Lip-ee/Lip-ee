@@ -30,7 +30,7 @@
  <img src="https://user-images.githubusercontent.com/63020408/175141955-f4f69038-c8d0-4ae8-86c1-f8db90b65ea0.png" height=60> &nbsp;&nbsp;
  <img src="https://user-images.githubusercontent.com/63020408/175142067-2aeafef9-7355-4d18-a775-5eb0551b876e.png" height=60> &nbsp;&nbsp;
  <img src="https://user-images.githubusercontent.com/63020408/175142684-fdd74a1e-c38e-431c-b9c0-fe07d1b37381.png" height=60> &nbsp;&nbsp;
- <img src="https://user-images.githubusercontent.com/63020408/175143379-36a51729-1868-4c0e-9b22-2e55f8da2ab3.png" height=60> &nbsp;&nbsp;
+ <img src="https://user-images.githubusercontent.com/63020408/175194544-4c105db4-f529-495a-aefc-e3dc10796965.png" height=60> &nbsp;&nbsp;
 </div>
 
 <hr>
@@ -44,8 +44,10 @@ CSS3: ![css3](https://user-images.githubusercontent.com/63020408/175141369-ede76
 JS: ![javascript](https://user-images.githubusercontent.com/63020408/175141709-fc748226-a9c2-4d80-acf6-3461c2ed0d28.png)
 Git: ![git](https://user-images.githubusercontent.com/63020408/175141955-f4f69038-c8d0-4ae8-86c1-f8db90b65ea0.png)
 GitHub: ![github](https://user-images.githubusercontent.com/63020408/175142067-2aeafef9-7355-4d18-a775-5eb0551b876e.png)
-Linux: ![linux](https://user-images.githubusercontent.com/63020408/175142684-fdd74a1e-c38e-431c-b9c0-fe07d1b37381.png)
-Godot: ![Godot_icon svg](https://user-images.githubusercontent.com/63020408/175143379-36a51729-1868-4c0e-9b22-2e55f8da2ab3.png)
+Linux: ![kali-logo](https://user-images.githubusercontent.com/63020408/175142684-fdd74a1e-c38e-431c-b9c0-fe07d1b37381.png)
+Godot: ![godot-logo](https://user-images.githubusercontent.com/63020408/175194544-4c105db4-f529-495a-aefc-e3dc10796965.png)
+
+
 -->
 
 <div align="center">
@@ -53,13 +55,13 @@ Godot: ![Godot_icon svg](https://user-images.githubusercontent.com/63020408/1751
  <img src="https://user-images.githubusercontent.com/63020408/175192014-8c5e9013-cc32-4e26-a9c6-6caacbc80890.png" width=80% /><br><br>
 
  <a href="https://www.linkedin.com/in/devlipe/" rel="nofollow">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=40>
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=50>
  </a> &nbsp;&nbsp;
  <a href="https://www.instagram.com/lip__ee_/" rel="nofollow">
-  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=40>
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=50>
  </a> &nbsp;&nbsp;
  <a href="https://twitter.com/lipopepy" rel="nofollow">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=40>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=50>
  </a>
  
 </div>
