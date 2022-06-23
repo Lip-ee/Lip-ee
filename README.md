@@ -1,18 +1,18 @@
-<p align="center">
+<div align="center">
   <!--Hello, I'm Filipe!-->
-  <img src="https://user-images.githubusercontent.com/63020408/175167404-1dc11566-f5c2-42cf-bfb3-f60513590036.png" width="45%" />
- &nbsp; &nbsp; &nbsp; &nbsp;
-  <!--About Me-->
-  <img src="https://user-images.githubusercontent.com/63020408/175170111-e07ef85d-3a8b-4d04-b3ef-0e4d1118bbec.png" width="45%" />
-</p>
-
-<p align="center">
+  <img src="https://user-images.githubusercontent.com/63020408/175167404-1dc11566-f5c2-42cf-bfb3-f60513590036.png" width="80%" />
   <!--gif lindao pixel art-->
-  <img src="https://user-images.githubusercontent.com/63020408/175190755-c689d510-5b93-414f-9d3c-0bf6cf8d231d.gif" width="45%" />
- &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://user-images.githubusercontent.com/63020408/175191020-0e6a11ef-fcf1-40a4-b6e4-8b2a9f882cda.gif" width="80%" />
+</div>
+
+<hr>
+
+<div align="center">
+  <!--About Me-->
+  <img src="https://user-images.githubusercontent.com/63020408/175170111-e07ef85d-3a8b-4d04-b3ef-0e4d1118bbec.png" width="80%" />
   <!--text about me-->
-  <img src="https://user-images.githubusercontent.com/63020408/175182307-6449c49a-3ec4-450e-a946-d25dc2b990fe.png" width="45%" />
-</p>
+  <img src="https://user-images.githubusercontent.com/63020408/175182307-6449c49a-3ec4-450e-a946-d25dc2b990fe.png" width="80%" />
+</div>
 
 
 <hr>
