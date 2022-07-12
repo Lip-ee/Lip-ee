@@ -1,12 +1,14 @@
+<!-- ########## HELLO ########## -->
 <div align="center">
   <!--Hello, I'm Filipe!-->
-  <img src="https://user-images.githubusercontent.com/63020408/175191508-2287367e-250a-4a89-ae4e-1cacd61eeb91.png" width="80%" />
+  <img src="https://user-images.githubusercontent.com/63020408/175191508-2287367e-250a-4a89-ae4e-1cacd61eeb91.png" width="90%" />
   <!--gif lindao pixel art-->
-  <img src="https://user-images.githubusercontent.com/63020408/175191020-0e6a11ef-fcf1-40a4-b6e4-8b2a9f882cda.gif" width="80%" />
+  <img src="https://user-images.githubusercontent.com/63020408/175191020-0e6a11ef-fcf1-40a4-b6e4-8b2a9f882cda.gif" width="95%" />
 </div>
 
 <hr>
 
+<!-- ########## ABOUT ########## -->
 <div align="center">
   <!--About Me-->
   <img src="https://user-images.githubusercontent.com/63020408/175191663-5668eebd-5765-492a-8584-71b082929d65.png" width="80%" />
@@ -16,6 +18,7 @@
 
 <hr>
 
+<!-- ########## SKILLS ########## -->
 <div align="center">
  <!--Skills-->
  <img src="https://user-images.githubusercontent.com/63020408/175191770-55c3dd71-9553-44ba-a497-900585dd7843.png" width=80%><br><br>
@@ -50,6 +53,7 @@ Godot: ![godot-logo](https://user-images.githubusercontent.com/63020408/17519454
 
 -->
 
+<!-- ########## CONTACT ########## -->
 <div align="center">
  <!--Contact Me-->
  <img src="https://user-images.githubusercontent.com/63020408/175192014-8c5e9013-cc32-4e26-a9c6-6caacbc80890.png" width=80% /><br><br>
@@ -68,9 +72,10 @@ Godot: ![godot-logo](https://user-images.githubusercontent.com/63020408/17519454
 
 <hr>
 
+<!-- ########## STATUS ########## -->
 <div align="center">
  <!--Status-->
- <img src="https://user-images.githubusercontent.com/63020408/175192194-b0a3a802-7c22-4a83-9663-fd62f81fd635.png" width=80%><br>
+ <img src="https://user-images.githubusercontent.com/63020408/175192194-b0a3a802-7c22-4a83-9663-fd62f81fd635.png" width=58%><br>
 
  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Lip-ee&layout=compact&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" width=58%/></a>
  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lip-ee&layout=compact&theme=dracula&hide_border=true" width=58%/></a>
