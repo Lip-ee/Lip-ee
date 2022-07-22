@@ -1,7 +1,7 @@
 <!-- ########## HELLO ########## -->
 <div align="center">
   <!--Hello, I'm Filipe!-->
-  <img src="https://user-images.githubusercontent.com/63020408/175191508-2287367e-250a-4a89-ae4e-1cacd61eeb91.png" width="90%" />
+  <img src="https://user-images.githubusercontent.com/63020408/175191508-2287367e-250a-4a89-ae4e-1cacd61eeb91.png" width="95%" />
   <!--gif lindao pixel art-->
   <img src="https://user-images.githubusercontent.com/63020408/175191020-0e6a11ef-fcf1-40a4-b6e4-8b2a9f882cda.gif" width="95%" />
 </div>
@@ -31,8 +31,8 @@
  
  <br>
  <img src="https://user-images.githubusercontent.com/63020408/175140870-7bb08f86-f1cd-4349-8f27-a74aa4869752.png" height=60> <!--postgre--> &nbsp;&nbsp;
+ <img src="https://user-images.githubusercontent.com/63020408/180489527-50bbdde8-1d77-419c-9dec-2ff623a12780.png" height=60> <!--sql-serv--> &nbsp;&nbsp;
  <img src="https://user-images.githubusercontent.com/63020408/175141955-f4f69038-c8d0-4ae8-86c1-f8db90b65ea0.png" height=60> <!--git--> &nbsp;&nbsp;
- <img src="https://user-images.githubusercontent.com/63020408/175142067-2aeafef9-7355-4d18-a775-5eb0551b876e.png" height=60> <!--github--> &nbsp;&nbsp;
  <img src="https://user-images.githubusercontent.com/63020408/175142684-fdd74a1e-c38e-431c-b9c0-fe07d1b37381.png" height=60> <!--linux--> &nbsp;&nbsp;
  <img src="https://user-images.githubusercontent.com/63020408/175194544-4c105db4-f529-495a-aefc-e3dc10796965.png" height=60> <!--godot--> &nbsp;&nbsp;
 </div>
@@ -43,6 +43,7 @@
 Python: ![python](https://user-images.githubusercontent.com/63020408/175138851-36be8893-4f4f-4bb8-b02a-e8ef013a1346.png)
 PHP: ![php-logo](https://user-images.githubusercontent.com/63020408/175140263-402f0259-499b-48df-96e4-d277bd491d05.png)
 PostgreSQL: ![postgreesql](https://user-images.githubusercontent.com/63020408/175140870-7bb08f86-f1cd-4349-8f27-a74aa4869752.png)
+SQL Server: ![microsoft-sql-server](https://user-images.githubusercontent.com/63020408/180489527-50bbdde8-1d77-419c-9dec-2ff623a12780.png)
 HTML5: ![html-5](https://user-images.githubusercontent.com/63020408/175141245-e28663af-e826-41c5-858c-54f9d3b74f17.png)
 CSS3: ![css3](https://user-images.githubusercontent.com/63020408/175141369-ede76c60-c903-4c5c-9937-b32d77f41232.png)
 JS: ![javascript](https://user-images.githubusercontent.com/63020408/175141709-fc748226-a9c2-4d80-acf6-3461c2ed0d28.png)
