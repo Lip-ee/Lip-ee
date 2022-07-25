@@ -31,7 +31,7 @@
  
  <br>
  <img src="https://user-images.githubusercontent.com/63020408/175140870-7bb08f86-f1cd-4349-8f27-a74aa4869752.png" height=60> <!--postgre--> &nbsp;&nbsp;
- <img src="https://user-images.githubusercontent.com/63020408/180489527-50bbdde8-1d77-419c-9dec-2ff623a12780.png" height=60> <!--sql-serv--> &nbsp;&nbsp;
+ <img src="https://user-images.githubusercontent.com/63020408/180686131-16010134-3c5e-4622-87fc-cc27f7af0915.png" height=60> <!--sqlite--> &nbsp;&nbsp;
  <img src="https://user-images.githubusercontent.com/63020408/175141955-f4f69038-c8d0-4ae8-86c1-f8db90b65ea0.png" height=60> <!--git--> &nbsp;&nbsp;
  <img src="https://user-images.githubusercontent.com/63020408/175142684-fdd74a1e-c38e-431c-b9c0-fe07d1b37381.png" height=60> <!--linux--> &nbsp;&nbsp;
  <img src="https://user-images.githubusercontent.com/63020408/175194544-4c105db4-f529-495a-aefc-e3dc10796965.png" height=60> <!--godot--> &nbsp;&nbsp;
@@ -52,6 +52,7 @@ GitHub: ![github](https://user-images.githubusercontent.com/63020408/175142067-2
 Linux: ![kali-logo](https://user-images.githubusercontent.com/63020408/175142684-fdd74a1e-c38e-431c-b9c0-fe07d1b37381.png)
 Godot: ![godot-logo](https://user-images.githubusercontent.com/63020408/175194544-4c105db4-f529-495a-aefc-e3dc10796965.png)
 NodeJS: ![node-js](https://user-images.githubusercontent.com/63020408/180367076-574cc7ae-dab7-4229-b0d0-ff539e7f93e6.png)
+SQLite: ![sqlite](https://user-images.githubusercontent.com/63020408/180686131-16010134-3c5e-4622-87fc-cc27f7af0915.png)
 
 
 -->
