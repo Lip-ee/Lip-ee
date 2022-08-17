@@ -1,3 +1,4 @@
+
 <!-- ########## HELLO ########## -->
 <div align="center">
   <!--Hello, I'm Filipe!-->
@@ -5,6 +6,7 @@
   <!--gif lindao pixel art-->
   <img src="https://user-images.githubusercontent.com/63020408/175191020-0e6a11ef-fcf1-40a4-b6e4-8b2a9f882cda.gif" width="95%" />
 </div>
+
 
 <hr>
 
@@ -23,18 +25,20 @@
  <!--Skills-->
  <img src="https://user-images.githubusercontent.com/63020408/175191770-55c3dd71-9553-44ba-a497-900585dd7843.png" width=80%><br><br>
  
- <img src="https://user-images.githubusercontent.com/63020408/175138851-36be8893-4f4f-4bb8-b02a-e8ef013a1346.png" height=60> <!--python--> &nbsp;&nbsp;
  <img src="https://user-images.githubusercontent.com/63020408/175141245-e28663af-e826-41c5-858c-54f9d3b74f17.png" height=60> <!--html5--> &nbsp;&nbsp;
  <img src="https://user-images.githubusercontent.com/63020408/175141369-ede76c60-c903-4c5c-9937-b32d77f41232.png" height=60> <!--css3--> &nbsp;&nbsp;
  <img src="https://user-images.githubusercontent.com/63020408/175141709-fc748226-a9c2-4d80-acf6-3461c2ed0d28.png" height=60> <!--js--> &nbsp;&nbsp;
  <img src="https://user-images.githubusercontent.com/63020408/180367076-574cc7ae-dab7-4229-b0d0-ff539e7f93e6.png" height=60> <!--nodejs--> &nbsp;&nbsp;
- 
- <br>
+ <img src="https://user-images.githubusercontent.com/63020408/185019329-92a2e147-f516-4a5f-a31d-91108306c3d4.png" height=60> <!--sequelize--> &nbsp;&nbsp;
+ <img src="https://user-images.githubusercontent.com/63020408/185018549-b735c9ee-5441-46b2-a490-3a852453d3e1.png" height=60> <!--knexjs--> &nbsp;&nbsp;
+
+ <img src="https://user-images.githubusercontent.com/63020408/175138851-36be8893-4f4f-4bb8-b02a-e8ef013a1346.png" height=60> <!--python--> &nbsp;&nbsp;
+ <img src="https://user-images.githubusercontent.com/63020408/175142684-fdd74a1e-c38e-431c-b9c0-fe07d1b37381.png" height=60> <!--linux--> &nbsp;&nbsp;
+ <img src="https://user-images.githubusercontent.com/63020408/175194544-4c105db4-f529-495a-aefc-e3dc10796965.png" height=60> <!--godot--> &nbsp;&nbsp;
  <img src="https://user-images.githubusercontent.com/63020408/175140870-7bb08f86-f1cd-4349-8f27-a74aa4869752.png" height=60> <!--postgre--> &nbsp;&nbsp;
  <img src="https://user-images.githubusercontent.com/63020408/180686131-16010134-3c5e-4622-87fc-cc27f7af0915.png" height=60> <!--sqlite--> &nbsp;&nbsp;
  <img src="https://user-images.githubusercontent.com/63020408/175141955-f4f69038-c8d0-4ae8-86c1-f8db90b65ea0.png" height=60> <!--git--> &nbsp;&nbsp;
- <img src="https://user-images.githubusercontent.com/63020408/175142684-fdd74a1e-c38e-431c-b9c0-fe07d1b37381.png" height=60> <!--linux--> &nbsp;&nbsp;
- <img src="https://user-images.githubusercontent.com/63020408/175194544-4c105db4-f529-495a-aefc-e3dc10796965.png" height=60> <!--godot--> &nbsp;&nbsp;
+
 </div>
 
 <hr>
@@ -53,6 +57,8 @@ Linux: ![kali-logo](https://user-images.githubusercontent.com/63020408/175142684
 Godot: ![godot-logo](https://user-images.githubusercontent.com/63020408/175194544-4c105db4-f529-495a-aefc-e3dc10796965.png)
 NodeJS: ![node-js](https://user-images.githubusercontent.com/63020408/180367076-574cc7ae-dab7-4229-b0d0-ff539e7f93e6.png)
 SQLite: ![sqlite](https://user-images.githubusercontent.com/63020408/180686131-16010134-3c5e-4622-87fc-cc27f7af0915.png)
+Knex.js: ![knex-js-logo](https://user-images.githubusercontent.com/63020408/185018549-b735c9ee-5441-46b2-a490-3a852453d3e1.png)
+Sequelize: ![sequelize_logo](https://user-images.githubusercontent.com/63020408/185019329-92a2e147-f516-4a5f-a31d-91108306c3d4.png)
 
 
 -->
