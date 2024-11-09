@@ -71,7 +71,7 @@ Sequelize: ![sequelize_logo](https://user-images.githubusercontent.com/63020408/
  <a href="https://www.linkedin.com/in/devlipe/" rel="nofollow">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=50>
  </a> &nbsp;&nbsp;
- <a href="https://www.instagram.com/lip__ee_/" rel="nofollow">
+ <a href="https://www.instagram.com/lipope_/" rel="nofollow">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=50>
  </a> &nbsp;&nbsp;
  <a href="https://twitter.com/lipopepy" rel="nofollow">
@@ -89,7 +89,7 @@ Sequelize: ![sequelize_logo](https://user-images.githubusercontent.com/63020408/
 
  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Lip-ee&layout=compact&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" width=58%/></a>
  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lip-ee&layout=compact&theme=dracula&hide_border=true" width=58%/></a>
- <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Lip-ee&theme=dracula&hide_border=true" width=58%/></a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Lip-ee&theme=dracula&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
  
 </div>
 
